@@ -15,7 +15,6 @@ Approach your placed money press
 Target it and select "Use Money Press"
 Choose "Start Printing Money" (requires materials)
 Wait 10 minutes for the process to complete
-Press X to cancel (you'll lose some materials)
 Packing Up
 Target your money press
 Select "Pack Up Money Press"
