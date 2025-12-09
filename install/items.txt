@@ -1,0 +1,39 @@
+-- Money Press Items
+['moneypress'] = {
+    ['name'] = 'moneypress',
+    ['label'] = 'Money Press',
+    ['weight'] = 50000,
+    ['type'] = 'item',
+    ['image'] = 'moneypress.png',
+    ['unique'] = true,
+    ['useable'] = true,
+    ['shouldClose'] = true,
+    ['combinable'] = nil,
+    ['description'] = 'A portable money printing press for counterfeiting'
+},
+
+['paper'] = {
+    ['name'] = 'paper',
+    ['label'] = 'Paper',
+    ['weight'] = 100,
+    ['type'] = 'item',
+    ['image'] = 'paper.png',
+    ['unique'] = false,
+    ['useable'] = false,
+    ['shouldClose'] = false,
+    ['combinable'] = nil,
+    ['description'] = 'Blank paper sheets'
+},
+
+['ink'] = {
+    ['name'] = 'ink',
+    ['label'] = 'Ink',
+    ['weight'] = 200,
+    ['type'] = 'item',
+    ['image'] = 'ink.png',
+    ['unique'] = false,
+    ['useable'] = false,
+    ['shouldClose'] = false,
+    ['combinable'] = nil,
+    ['description'] = 'Printing ink'
+},
