@@ -36,7 +36,7 @@ Config.PickupAnimation = {
     flag = 0,
 }
 
--
+
 Config.PoliceAlert = {
     enabled = true,
     chance = 100,
